@@ -93,6 +93,13 @@ em{
     color: #00ffee;
 }
 
+@media (max-width: 1000px) {
+    .btn-group{
+        justify-content: center;
+
+    }
+    
+}
 
 
 
